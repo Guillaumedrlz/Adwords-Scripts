@@ -1,6 +1,6 @@
 /***************************************************************
 * MCC Keyword deletion script
-* Author gderolez@
+* Author Guillaumedrlz
 ****************************************************************
 * Mandatory variables used by this script
 * Review these and adapt as needed
